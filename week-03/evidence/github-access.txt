@@ -1,0 +1,2 @@
+GitHub SSH access confirmed
+Hi olad7554! You've successfully authenticated, but GitHub does not provide shell access.
